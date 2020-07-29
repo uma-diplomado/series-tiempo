@@ -5,10 +5,20 @@
 Módulo V del diplomado en Métodos Cuantitativos Financieros por parte de la Universidad Marista
 
 ## Temario
-1. Introducción: Machine Learning y las Series de Tiempo
-2. Un breve repaso de estadística inferencial
-3. Modelos (clásicos) probabilísticos
-    1. Modelos ARIMA
-    2. Modelos GARCH y GJR-GARCH
-4. Series de tiempo como un sitema dinámico
-    1. KNN
+1. Introducción
+2. Estadística
+    1. máxima verosimilitud
+    2. máximo a posteriori
+    3. Métodos Bayesianos
+3. Modelos clásicos de series de tiempo
+    1. Modelos AR / MA / ARMA
+    2. Modelos de volatilidad:
+        1. ARCH
+        2. GARCH
+        3. GJR-GARCH
+4. Modelos no lineales
+    1. Facebook's Prophet
+    2. Series de tiempo como un sistema dinámico
+        1. Sistétmas dinámicos
+        2. KNN
+        3. KNN y sistemas dinámicos
